@@ -1,0 +1,15 @@
+========== SMART CANTEEN ==========
+Customer Name : Arun
+Customer ID   : 1025
+-----------------------------------
+Ordered Food Items:
+Vegetable Sandwich - Rs.80.0
+Masala Dosa - Rs.90.0
+Fresh Fruit Juice - Rs.140.0
+-----------------------------------
+Total Amount   : Rs.310.0
+Discount       : Rs.31.0
+Final Amount   : Rs.279.0
+-----------------------------------
+Thank you for ordering!
+===================================
